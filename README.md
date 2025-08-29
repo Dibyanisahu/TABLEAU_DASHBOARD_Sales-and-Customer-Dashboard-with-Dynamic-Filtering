@@ -1,4 +1,4 @@
-# (TABLEAU DASHBOARD)Sales-and-Customer-Dashboard-with-Dynamic-Filtering [Dashboard_Link](https://public.tableau.com/views/SalesDashboardUS_17455359910900/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+# Sales-and-Customer-Dashboard-with-Dynamic-Filtering [Dashboard_Link](https://public.tableau.com/views/SalesDashboardUS_17455359910900/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 # 📊 US Sales & Customer Dashboard – Tableau Project
 
 Welcome to my interactive Tableau project analyzing sales and customer data for a US-based superstore. This project showcases how data visualization can drive insight-led business decisions through intuitive and interactive dashboards.
